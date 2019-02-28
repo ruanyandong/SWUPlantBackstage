@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string-array name="gymnospermList">
+        <item>侧柏</item>
+        <item>柳杉</item>
+        <item>罗汉松</item>
+        <item>南方红豆杉</item>
+        <item>铺地柏</item>
+        <item>水杉</item>
+        <item>四川苏铁</item>
+        <item>苏铁</item>
+        <item>塔柏</item>
+        <item>雪松</item>
+        <item>异叶南洋杉</item>
+        <item>银杏</item>
+    </string-array>
+</resources>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string-array name="plantCN">
+        <item>矮棕竹</item>
+        <item>桉</item>
+        <item>澳洲坚果</item>
+
+        <item>八角枫</item>
+        <item>八角金盘</item>
+        <item>芭蕉</item>
+        <item>白杜</item>
+        <item>白花泡桐</item>
+        <item>白花紫露草</item>
+        <item>白兰</item>
+        <item>白楠</item>
+        <item>白玉兰</item>
+        <item>百日菊</item>
+        <item>斑叶蜘蛛抱蛋</item>
+        <item>蓖麻</item>
+        <item>碧冬茄</item>
+
+        <item>菜豆树</item>
+        <item>侧柏</item>
+        <item>茶梅</item>
+        <item>赤楠</item>
+        <item>川楝</item>
+        <item>垂花悬铃花</item>
+        <item>垂柳</item>
+        <item>垂丝海棠</item>
+        <item>垂枝榆</item>
+        <item>春羽</item>
+        <item>慈竹</item>
+        <item>刺槐</item>
+        <item>刺楸</item>
+        <item>刺桐</item>
+
+        <item>大花马齿苋</item>
+        <item>大花美人蕉</item>
+        <item>大薸</item>
+        <item>大叶黄杨</item>
+        <item>大叶仙茅</item>
+        <item>东京樱花</item>
+        <item>董棕</item>
+        <item>豆瓣黄杨</item>
+        <item>杜鹃</item>
+        <item>杜英</item>
+
+        <item>鹅掌柴</item>
+        <item>萼距花</item>
+        <item>二乔玉兰</item>
+
+        <item>法国梧桐</item>
+        <item>飞黄玉兰</item>
+        <item>风车草</item>
+        <item>枫香树</item>
+        <item>枫杨</item>
+        <item>凤尾丝兰</item>
+        <item>凤尾竹</item>
+        <item>扶桑</item>
+        <item>复羽叶栾树</item>
+
+        <item>柑橘</item>
+        <item>枸橘</item>
+        <item>构树</item>
+        <item>光叶石楠</item>
+        <item>龟背竹</item>
+        <item>桂竹</item>
+
+        <item>海金沙</item>
+        <item>海桐</item>
+        <item>海芋</item>
+        <item>含笑花</item>
+        <item>旱金莲</item>
+        <item>何首乌</item>
+        <item>荷花玉兰</item>
+        <item>黑壳楠</item>
+        <item>红背桂</item>
+        <item>红枫</item>
+        <item>红花檵木</item>
+        <item>红花羊蹄甲</item>
+        <item>红花酢浆草</item>
+        <item>红千层</item>
+        <item>红叶石楠</item>
+        <item>蝴蝶花</item>
+        <item>虎耳草</item>
+        <item>花椒</item>
+        <item>花叶冷水花</item>
+        <item>花叶青木</item>
+        <item>花叶艳山姜</item>
+        <item>槐</item>
+        <item>黄独</item>
+        <item>黄葛树</item>
+        <item>黄金菊</item>
+        <item>黄金叶假连翘</item>
+        <item>黄连木</item>
+        <item>黄杞</item>
+        <item>灰莉</item>
+
+        <item>鸡桑</item>
+        <item>鸡爪槭</item>
+        <item>加拿利海枣</item>
+        <item>假槟榔</item>
+        <item>姜</item>
+        <item>接骨草</item>
+        <item>金边黄杨</item>
+        <item>金佛山荚蒾</item>
+        <item>金心吊兰</item>
+        <item>九重葛</item>
+        <item>韭莲</item>
+        <item>酒瓶椰子</item>
+
+        <item>苦楝</item>
+
+        <item>蜡梅</item>
+        <item>蓝桉</item>
+        <item>蓝花楹</item>
+        <item>榔榆</item>
+        <item>乐昌含笑</item>
+        <item>李</item>
+        <item>莲</item>
+        <item>柳杉</item>
+        <item>六月雪</item>
+        <item>龙牙花</item>
+        <item>龙爪槐</item>
+        <item>罗汉松</item>
+        <item>落葵薯</item>
+        <item>葎草</item>
+
+        <item>麻叶绣线菊</item>
+        <item>马蹄莲</item>
+        <item>马缨丹</item>
+        <item>毛蕨</item>
+        <item>毛桐</item>
+        <item>毛叶木瓜</item>
+        <item>毛叶木姜子</item>
+        <item>梅</item>
+        <item>木芙蓉</item>
+        <item>木槿</item>
+        <item>木犀</item>
+
+        <item>南方红豆杉</item>
+        <item>南天竹</item>
+        <item>女贞</item>
+
+        <item>爬山虎</item>
+        <item>枇杷</item>
+        <item>铺地柏</item>
+        <item>葡萄</item>
+        <item>蒲儿根</item>
+        <item>蒲葵</item>
+        <item>朴树</item>
+
+        <item>千层金</item>
+        <item>千屈菜</item>
+        <item>蔷薇</item>
+        <item>秋枫</item>
+        <item>秋海棠</item>
+        <item>秋英</item>
+        <item>雀舌黄杨</item>
+
+        <item>日本珊瑚树</item>
+        <item>日本晚樱</item>
+        <item>绒叶木姜子</item>
+        <item>榕树</item>
+        <item>润楠</item>
+
+        <item>三角槭</item>
+        <item>桑</item>
+        <item>山茶</item>
+        <item>山樱桃</item>
+        <item>山玉兰</item>
+        <item>陕西短柱茶</item>
+        <item>肾蕨</item>
+        <item>十大功劳</item>
+        <item>石榴</item>
+        <item>使君子</item>
+        <item>双荚决明</item>
+        <item>水鬼蕉</item>
+        <item>水杉</item>
+        <item>水竹芋</item>
+        <item>睡莲</item>
+        <item>四川蒲葵</item>
+        <item>四川苏铁</item>
+        <item>四季桂</item>
+        <item>苏铁</item>
+        <item>梭鱼草</item>
+
+        <item>塔柏</item>
+        <item>桃</item>
+        <item>天门冬</item>
+        <item>天竺桂</item>
+        <item>天竺葵</item>
+        <item>铁线蕨</item>
+
+        <item>望春玉兰</item>
+        <item>卫矛</item>
+        <item>蚊母树</item>
+        <item>乌桕</item>
+        <item>乌蔹莓</item>
+        <item>乌柿</item>
+        <item>梧桐</item>
+        <item>蜈蚣草</item>
+
+        <item>西南卫矛</item>
+        <item>喜树</item>
+        <item>虾蟆花</item>
+        <item>香樟</item>
+        <item>向日葵</item>
+        <item>小蜡</item>
+        <item>小琴丝竹</item>
+        <item>小叶女贞</item>
+        <item>孝顺竹</item>
+        <item>杏</item>
+        <item>绣线菊</item>
+        <item>旋花</item>
+        <item>雪松</item>
+
+        <item>崖花海桐</item>
+        <item>沿阶草</item>
+        <item>夜香树</item>
+        <item>一串红</item>
+        <item>异叶南洋杉</item>
+        <item>银桦</item>
+        <item>银木</item>
+        <item>银杏</item>
+        <item>印度榕</item>
+        <item>樱花</item>
+        <item>迎春花</item>
+        <item>柚子</item>
+        <item>鱼尾葵</item>
+        <item>鱼木</item>
+        <item>玉簪</item>
+
+        <item>柘</item>
+        <item>栀子</item>
+        <item>蜘蛛抱蛋</item>
+        <item>紫花二乔玉兰</item>
+        <item>紫荆</item>
+        <item>紫茉莉</item>
+        <item>紫藤</item>
+        <item>紫薇</item>
+        <item>紫鸭跖草</item>
+        <item>紫叶李</item>
+        <item>紫玉兰</item>
+        <item>紫竹</item>
+        <item>棕榈</item>
+</string-array>
+</resources>

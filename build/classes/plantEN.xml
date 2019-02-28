@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string-array name="plantEn">
+        <item>Rhapis humilis Bl.</item>
+        <item>Eucalyptus robusta Smith</item>
+        <item>Macadamia ternifolia F. Muell.</item>
+
+        <item>Alangium chinense (Lour.) Harms</item>
+        <item>Fatsia japonica (Thunb.) Decne. et Planch.</item>
+        <item>Musa basjoo</item>
+        <item>Cinnamomum camphora (L.) presl</item>
+        <item>Paulownia fortunei(Seem.) Hemsl.</item>
+        <item>Tradescantia fluminensis </item>
+        <item>Michelia alba DC.</item>
+        <item>Cinnamomum camphora (L.) presl</item>
+        <item>Cinnamomum camphora (L.) presl</item>
+        <item>Zinnia elegans Jacq.</item>
+        <item>Aspidistra elatior var.variegata</item>
+        <item>Ricinus communis L.</item>
+        <item>Petunia hybrida Vilm.</item>
+
+        <item>Radermachera sinica (Hance) Hemsl.</item>
+        <item>Platycladus orientalis (L.) Franco</item>
+        <item>Camellia sasanqua Thunb.</item>
+        <item>Camellia sasanqua Thunb.</item>
+        <item>Melia toosendan Sieb. et Zucc.</item>
+        <item>Melia toosendan Sieb. et Zucc.</item>
+        <item>Salix babylonica</item>
+        <item>Malus halliana Koehne</item>
+        <item>Ulmus pumila L.Tenue</item>
+        <item>Philodenron  selloum  Koch</item>
+        <item>Neosinocalamus affinis (Rendle) Keng</item>
+        <item>Robinia pseudoacacia</item>
+        <item>Kalopanax septemlobus (Thunb.) Koidz.</item>
+        <item>Erythrina variegata Linn.</item>
+
+        <item>Portulaca grandiflora Hook.</item>
+        <item>Canna generalis Bailey</item>
+        <item>Canna generalis Bailey</item>
+        <item>Buxus megistophylla Levl.</item>
+        <item>Curculigo capitulata (Lour.) O. Ktze.</item>
+        <item>Cerasus yedoensis (Matsum.) Yu et Li</item>
+        <item>Caryota urens L.</item>
+        <item>Buxus sinica (Rehd. et Wils.) Cheng</item>
+        <item>Rhododendron simsii Planch</item>
+        <item>Elaeocarpus decipiens Hemsl.</item>
+
+        <item>Schefflera  octophylla  (Lour.) Harms</item>
+        <item>Cuphea hookeriana Walp.</item>
+        <item>Magnolia soulangeana Soul.-Bod.</item>
+
+        <item>Platanus orientalis L.</item>
+        <item>Magnolia denudata‘Fenhang</item>
+        <item>Cyperus alternifolius L. subsp. flabelliformis (Rottb.) KüKenth.</item>
+        <item>Liquidambar formosana</item>
+        <item>Pterocarya stenoptera</item>
+        <item>Yucca gloriosa L.</item>
+        <item>Bambusa multiplex (Lour.) Raeusch. ex Schult. Fernleaf R. A. Young</item>
+        <item>Hibiscus rosa-sinensis Linn.</item>
+        <item>Sapindaceae Koelreuteria bipinnata Franch.</item>
+
+        <item>Citrus reticulata Blanco</item>
+        <item>Poncirus trifoliata (L.) Raf.</item>
+        <item>Broussonetia papyrifera (Linn.) L Hér. ex Vent.</item>
+        <item>Photinia glabra (Thunb.) Maxim.</item>
+        <item>Monstera deliciosa</item>
+        <item>Phyllostachys bambusoides Sieb. et Zucc.</item>
+
+        <item>Lygodium japonicum (Thunb.) Sw.</item>
+        <item>Pittosporum tobira (Thunb.) Ait.</item>
+        <item>Alocasia macrorrhiza</item>
+        <item>Michelia figo (Lour.)</item>
+        <item>Tropaeolum majus L.</item>
+        <item>Fallopia multiflora (Thunb.) Harald.</item>
+        <item>Magnolia grandiflora L.</item>
+        <item>Lindera megaphylla Hemsl.</item>
+        <item>Excoecaria cochinchinensis Lour.</item>
+        <item>Acer palmatum Atropurpureum</item>
+        <item>Loropetalum chinense var. rubrum Yieh</item>
+        <item>Loropetalum chinense var. rubrum Yieh</item>
+        <item>Ricinus communis L.</item>
+        <item>Callistemon rigidus R. Br.</item>
+        <item>Photinia × fraseri Dress</item>
+        <item>Iris japonica</item>
+        <item>Saxifraga stolonifera Curt.</item>
+        <item>Zanthoxylum bungeanum Maxim.</item>
+        <item>Pilea cadierei Gagnep.</item>
+        <item>Aucuba japonica Thunb. var. variegata D ombr.</item>
+        <item>Alpinia zerumbet ’Variegata’</item>
+        <item>Sophora japonica Linn.</item>
+        <item>Dioscorea bulbifera L.</item>
+        <item>Ficus virens Ait. var. sublanceolata (Miq.) Corner</item>
+        <item>Hypochaeris ciliata (Thunb. ) Makino</item>
+        <item>Duranta repens ‘Variegata’</item>
+        <item>Pistacia chinensis</item>
+        <item>Engelhardtia roxburghiana</item>
+        <item>Fagraea ceilanica</item>
+
+        <item>Morus australis Poir.</item>
+        <item>Acer palmatum Thunb.</item>
+        <item>Phoenix canariensis</item>
+        <item>Archontophoenix alexandrae (F. Muell.) H. Wendl. et Drude</item>
+        <item>Zingiber officinale Rosc.</item>
+        <item>Sambucus chinensis Lindl.</item>
+        <item>Euonymus japonicus Thunb. var. aurea-marginatus Hort.</item>
+        <item>Viburnum chinshanense Graebn.</item>
+        <item>Chlorophytum comosum</item>
+        <item>Bougainvillea spectabilis Willd.</item>
+        <item>Zephyranthes grandiflora Lindl.</item>
+        <item>Hyophorbe lagenicaulis (L.H.Bailey) H.E.Moore</item>
+
+        <item>Melia azedarach L.</item>
+
+        <item>Chimonanthus praecox (Linn.) Link</item>
+        <item>Eucalyptus globulus Labill.</item>
+        <item>Jacaranda mimosifolia D. Don</item>
+        <item>Ulmus parvifolia Jacq.</item>
+        <item>Michelia chapensis Dandy</item>
+        <item>Prunus salicina Lindl.</item>
+        <item>Nelumbo nucifera</item>
+        <item>Cryptomeria fortunei Hooibrenk ex Otto et Dietr.</item>
+        <item>Serissa japonica (Thunb.) Thunb.</item>
+        <item>Erythrina corallodendron Linn.</item>
+        <item>Sophora japonica Linn. var. japonica f. pendula Hort.</item>
+        <item>Podocarpus macrophyllus (Thunb.) D. Don</item>
+        <item>Anredera cordifolia (Tenore) Steenis</item>
+        <item>Humulus scandens</item>
+
+        <item>Spiraea cantoniensis Lour.</item>
+        <item>Zantedeschia aethiopica</item>
+        <item>Lantana camara L.</item>
+        <item>Cyclosorus interruptus (Willd. ) H. Ito</item>
+        <item>Mallotus barbatus (Wall.) Muell. Arg.</item>
+        <item>Chaenomeles cathayensis Schneid.</item>
+        <item>Litsea mollis Hemsl.</item>
+        <item>Armeniaca mume Sieb.</item>
+        <item>Hibiscus mutabilis Linn.</item>
+        <item>Hibiscus syriacus Linn.</item>
+        <item>Osmanthus fragrans (Thunb.) Lour.</item>
+
+        <item>Taxus chinensis (Pilger) Rehd. var. mairei (Lemee et Levl.) Cheng et L. K. Fu</item>
+        <item>Nandina domestica Thunb.</item>
+        <item>Ligustrum lucidum Ait.</item>
+
+        <item>Parthenocissus tricuspidata</item>
+        <item>Eriobotrya japonica (Thunb.) Lindl.</item>
+        <item>Sabina procumbens (Endl.) Iwata et Kusaka</item>
+        <item>Vitis vinifera L.</item>
+        <item>Sinosenecio oldhamianus (Maxim.) B. Nord.</item>
+        <item>Livistona chinensis (Jacq.) R. Br.</item>
+        <item>Celtis sinensis Pers.</item>
+
+        <item>Melaleuca bracteata</item>
+        <item>Lythrum salicaria L.</item>
+        <item>Rosa multiflora Thunb.</item>
+        <item>Bischofia javanica Bl</item>
+        <item>Begonia grandis Dry</item>
+        <item>Cosmos bipinnata Cav.</item>
+        <item>Buxus bodinieri Levl.</item>
+
+        <item>Viburnum odoratissimum Ker-Gawl. var. awabuki (K. Koch) Zabel ex Rumpl.</item>
+        <item>Cerasus serrulata (Lindl.) G. Don ex London var. lannesiana (Carr.) Makino</item>
+        <item>Litsea wilsonii Gamble</item>
+        <item>Ficus concinna (Miq.) Miq.</item>
+        <item>Machilus pingii Cheng ex Yang</item>
+
+        <item>Acer buergerianum Miq.</item>
+        <item>Moraceae Morus alba L.</item>
+        <item>Camellia japonica L.</item>
+        <item>Cerasus tomentosa (Thunb.) Wall.</item>
+        <item>Magnolia delavayi Franch.</item>
+        <item>Camellia shensiensis Chang</item>
+        <item>Nephrolepis auriculata (L. ) Trimen</item>
+        <item>Mahonia fortunei (Lindl. ) Fedde</item>
+        <item>Punica granatum L.</item>
+        <item>Quisqualis indica L.</item>
+        <item>Cassia bicapsularis Linn.</item>
+        <item>Hymenocallis littoralis (Jacq.) Salisb.</item>
+        <item>Metasequoia glyptostroboides Hu et Cheng</item>
+        <item>Thalia dealbata</item>
+        <item>Nymphaea tetragona</item>
+        <item>Syzygium szechuanense Chang et Miau</item>
+        <item>Cycas szechuanensis Cheng et L. K.Hu</item>
+        <item>Oleaceae Osmanthus fragrans var. Semperflorens</item>
+        <item>Cycas revoluta Thunb.</item>
+        <item>Pontederia cordata L.</item>
+
+        <item>Sabina chinensis (L.) Ant. Pyramidalis</item>
+        <item>Amygdalus persica L.</item>
+        <item>Asparagus cochinchinensis (Lour.) Merr.</item>
+        <item>Cinnamomum japonicum Sieb.</item>
+        <item>Pelargonium hortorum Bailey</item>
+        <item>Adiantum capillus-veneris L.</item>
+
+        <item>Magnolia biondii Pampan.</item>
+        <item>Euonymus alatus (Thunb.) Sieb.</item>
+        <item> Distylium racemosum</item>
+        <item>Sapium sebiferum (L.) Roxb.</item>
+        <item>Cayratia japonica (Thunb.) Gagnep.</item>
+        <item>Diospyros cathayensis Steward</item>
+        <item>Firmiana platanifolia (L. f.) Marsili</item>
+        <item>Pteris vittata L.</item>
+
+        <item>Euonymus hamiltonianus Wall. ex Roxb.</item>
+        <item>Camptotheca acuminata Decne.</item>
+        <item>Acanthus mollis L. </item>
+        <item>Cinnamomum camphora (L.) presl </item>
+        <item>Helianthus annuus L.</item>
+        <item>Ligustrum sinense Lour</item>
+        <item>Bambusa multiplex (Lour.) Raeusch. ex Schult. Alphonse-Kar R. A. Young</item>
+        <item>Ligustrum quihoui Carr.</item>
+        <item>Bambusa multiplex (Lour.) Raeusch. ex Schult.</item>
+        <item>Armeniaca vulgaris Lam. var. vulgaris</item>
+        <item>Spiraea salicifolia</item>
+        <item>Calystegia sepium (L.) R. Br.</item>
+        <item>Cedrus deodara (Roxb.) G. Don</item>
+
+        <item>Pittosporum illicioides Makino</item>
+        <item>Ophiopogon bodinieri</item>
+        <item>Cestrum nocturnum L.</item>
+        <item>Salvia splendens Ker-Gawl.</item>
+        <item>Araucaria heterophylla (Salisb.) Franco</item>
+        <item>Grevillea robusta A. Cunn. ex R. Br.</item>
+        <item>Cinnamomum septentrionale Hand.-Mazz</item>
+        <item>Ginkgoaceae Engler Ginkgo biloba L.</item>
+        <item>Ficus elastica Roxb. ex Hornem.</item>
+        <item>Cerasus serrulata</item>
+        <item>Jasminum nudiflorum Lindl.</item>
+        <item>Citrus maxima (Burm.) Merr.</item>
+        <item>Caryota ochlandra Hance</item>
+        <item>Crateva formosensis (Jacobs) B. S. Sun</item>
+        <item>Hosta plantaginea (Lam.) Aschers.</item>
+
+        <item>Cudrania tricuspidata (Carr.) Bur. ex Lavallee</item>
+        <item>Gardenia jasminoides Ellis</item>
+        <item>Aspidistra elatior Blume</item>
+        <item>Magnolia soulangeana Soul.-Bod.</item>
+        <item>Leguminosae Cercis chinensis Bunge</item>
+        <item>Mirabilis jalapa L.</item>
+        <item>Wisteria sinensis</item>
+        <item>Lagerstroemia indica L.</item>
+        <item>Commelina purpurea C.B.Clarke.</item>
+        <item>Prunus cerasifera Ehrhar f. atropurpurea (Jacq.) Rehd.</item>
+        <item>Magnolia liliflora Desr.</item>
+        <item>Phyllostachys nigra (Lodd. ex Lindl.) Munro</item>
+        <item>Trachycarpus fortunei (Hook.) H. Wendl.</item>
+</string-array>
+</resources>

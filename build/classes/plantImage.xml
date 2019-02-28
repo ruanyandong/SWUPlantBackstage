@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="plantImageId">
+        <item>aizongzhu</item>
+        <item>an</item>
+        <item>aozhoujianguo</item>
+
+        <item>bajiaofeng</item>
+        <item>bajiaojinpan</item>
+        <item>bajiao</item>
+        <item>baidu</item>
+        <item>baihuapaotong</item>
+        <item>baihuazilucao</item>
+        <item>bailan</item>
+        <item>bainan</item>
+        <item>baiyulan</item>
+        <item>bairiju</item>
+        <item>banyezhizhubaodan</item>
+        <item>bima</item>
+        <item>bidongqie</item>
+
+        <item>caidoushu</item>
+        <item>cebai</item>
+        <item>chamei</item>
+        <item>chinan</item>
+        <item>chuanlian</item>
+        <item>chuihuaxuanlinghua</item>
+        <item>chuiliu</item>
+        <item>chuisihaitang</item>
+        <item>chuizhiyu</item>
+        <item>chunyu</item>
+        <item>cizhu</item>
+        <item>cihuai</item>
+        <item>ciqiu</item>
+        <item>citong</item>
+
+        <item>dahuamachixian</item>
+        <item>dahuameirenjiao</item>
+        <item>dapiao</item>
+        <item>dayehuangyang</item>
+        <item>dayexianmao</item>
+        <item>dongjingyinghua</item>
+        <item>dongzong</item>
+        <item>doubanhuangyang</item>
+        <item>dujuan</item>
+        <item>duying</item>
+
+        <item>ezhangchai</item>
+        <item>ejuhua</item>
+        <item>erqiaoyulan</item>
+
+        <item>faguowutong</item>
+        <item>feihuangyulan</item>
+        <item>fengchecao</item>
+        <item>fengxiangshu</item>
+        <item>fengyang</item>
+        <item>fengweisilan</item>
+        <item>fengweizhu</item>
+        <item>fusang</item>
+        <item>fuyuyeluanshu</item>
+
+        <item>ganju</item>
+        <item>gouju</item>
+        <item>goushu</item>
+        <item>guangyeshinan</item>
+        <item>guibeizhu</item>
+        <item>guizhu</item>
+
+        <item>haijinsha</item>
+        <item>haitong</item>
+        <item>haiyu</item>
+        <item>hanxiaohua</item>
+        <item>hanjinlian</item>
+        <item>heshouwu</item>
+        <item>hehuayulan</item>
+        <item>heikenan</item>
+        <item>hongbeigui</item>
+        <item>hongfeng</item>
+        <item>honghuajimu</item>
+        <item>honghuayangtijia</item>
+        <item>honghuazuojiangcao</item>
+        <item>hongqianceng</item>
+        <item>hongyeshinan</item>
+        <item>hudiehua</item>
+        <item>huercao</item>
+        <item>huajiao</item>
+        <item>huayelengshuihua</item>
+        <item>huayeqingmu</item>
+        <item>huayeyanshanjiang</item>
+        <item>huai</item>
+        <item>huangdu</item>
+        <item>huanggeshu</item>
+        <item>huangjinju</item>
+        <item>huangjinyejialianqiao</item>
+        <item>huanglianmu</item>
+        <item>huangqi</item>
+        <item>huili</item>
+
+        <item>jisang</item>
+        <item>jizhuaqi</item>
+        <item>jianalihaizao</item>
+        <item>jiabinglang</item>
+        <item>jiang</item>
+        <item>jiegucao</item>
+        <item>jinbianhuangyang</item>
+        <item>jinfoshanjiami</item>
+        <item>jinxindiaolan</item>
+        <item>jiuchongge</item>
+        <item>jiulian</item>
+        <item>jiupingyezi</item>
+
+        <item>kulian</item>
+
+        <item>lamei</item>
+        <item>lanan</item>
+        <item>lanhuaying</item>
+        <item>langyu</item>
+        <item>lechanghanxiao</item>
+        <item>li</item>
+        <item>lian</item>
+        <item>liushan</item>
+        <item>liuyuexue</item>
+        <item>longyahua</item>
+        <item>longzhaohuai</item>
+        <item>luohansong</item>
+        <item>luokuishu</item>
+        <item>lvcao</item>
+
+        <item>mayexiuxianju</item>
+        <item>matilian</item>
+        <item>mayingdan</item>
+        <item>maojue</item>
+        <item>maotong</item>
+        <item>maoyemugua</item>
+        <item>maoyemujiangzi</item>
+        <item>mei</item>
+        <item>mufurong</item>
+        <item>mujin</item>
+        <item>muxi</item>
+
+        <item>nanfanghongdoushan</item>
+        <item>nantianzhu</item>
+        <item>nvzhen</item>
+
+        <item>pashanhu</item>
+        <item>pipa</item>
+        <item>pudibai</item>
+        <item>putao</item>
+        <item>puergen</item>
+        <item>pukui</item>
+        <item>pushu</item>
+
+        <item>qiancengjin</item>
+        <item>qianqucai</item>
+        <item>qiangwei</item>
+        <item>qiufeng</item>
+        <item>qiuhaitang</item>
+        <item>qiuying</item>
+        <item>queshehuangyang</item>
+
+        <item>ribenshanhushu</item>
+        <item>ribenwanying</item>
+        <item>rongyemujiangzi</item>
+        <item>rongshu</item>
+        <item>runnan</item>
+
+        <item>sanjiaoqi</item>
+        <item>sang</item>
+        <item>shancha</item>
+        <item>shanyingtao</item>
+        <item>shanyulan</item>
+        <item>shanxiduanzhucha</item>
+        <item>shenjue</item>
+        <item>shidagonglao</item>
+        <item>shiliu</item>
+        <item>shijunzi</item>
+        <item>shuangjiajueming</item>
+        <item>shuiguijiao</item>
+        <item>shuishan</item>
+        <item>shuizhuyu</item>
+        <item>shuilian</item>
+        <item>sichuanpukui</item>
+        <item>sichuansutie</item>
+        <item>sijigui</item>
+        <item>sutie</item>
+        <item>suoyucao</item>
+
+        <item>tabai</item>
+        <item>tao</item>
+        <item>tianmendong</item>
+        <item>tianzhugui</item>
+        <item>tianzhukui</item>
+        <item>tiexianjue</item>
+
+        <item>wangchunyulan</item>
+        <item>weimao</item>
+        <item>wenmushu</item>
+        <item>wujiu</item>
+        <item>wulianmei</item>
+        <item>wushi</item>
+        <item>wutong</item>
+        <item>wugongcao</item>
+
+        <item>xinanweimao</item>
+        <item>xishu</item>
+        <item>hamahua</item>
+        <item>xiangzhang</item>
+        <item>xiangrikui</item>
+        <item>xiaola</item>
+        <item>xiaoqinsizhu</item>
+        <item>xiaoyenvzhen</item>
+        <item>xiaoshunzhu</item>
+        <item>xing</item>
+        <item>xiuxianju</item>
+        <item>xuanhua</item>
+        <item>xuesong</item>
+
+        <item>yahuahaitong</item>
+        <item>yanjiecao</item>
+        <item>yexiangshu</item>
+        <item>yichuanhong</item>
+        <item>yiyenanyangshan</item>
+        <item>yinhua</item>
+        <item>yinmu</item>
+        <item>yinxing</item>
+        <item>yindurong</item>
+        <item>yinghua</item>
+        <item>yingchunhua</item>
+        <item>youzi</item>
+        <item>yuweikui</item>
+        <item>yumu</item>
+        <item>yuzan</item>
+
+        <item>zhe</item>
+        <item>zhizi</item>
+        <item>zhizhubaodan</item>
+        <item>zihuaerqiaoyulan</item>
+        <item>zijing</item>
+        <item>zimoli</item>
+        <item>ziteng</item>
+        <item>ziwei</item>
+        <item>ziyazhicao</item>
+        <item>ziyeli</item>
+        <item>ziyulan</item>
+        <item>zizhu</item>
+        <item>zonglv</item>
+    </string-array>
+</resources>

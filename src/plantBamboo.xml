@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="bambooList">
+        <item>慈竹</item>
+        <item>凤尾竹</item>
+        <item>桂竹</item>
+        <item>小琴丝竹</item>
+        <item>孝顺竹</item>
+        <item>紫竹</item>
+    </string-array>
+</resources>

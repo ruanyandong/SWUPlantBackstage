@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string-array name="fernList">
+        <item>海金沙</item>
+        <item>毛蕨</item>
+        <item>肾蕨</item>
+        <item>铁线蕨</item>
+        <item>蜈蚣草</item>
+    </string-array>
+</resources>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string-array name="plantProperty">
+        <item>棕榈科 棕竹属</item>
+        <item>桃金娘科 桉属</item>
+        <item>山龙眼科  澳洲坚果属</item>
+
+        <item>八角枫科 八角枫属</item>
+        <item>五加科 八角金盘属</item>
+        <item>芭蕉科 芭蕉属</item>
+        <item>卫矛科 卫矛属</item>
+        <item>玄参科 泡桐属</item>
+        <item>鸭跖草科  紫露草属</item>
+        <item>木兰科 含笑属</item>
+        <item>樟科 楠属</item>
+        <item>木兰科  木兰属</item>
+        <item>菊科  百日菊属</item>
+        <item>百合科 蜘蛛抱蛋属</item>
+        <item>大戟科 蓖麻属</item>
+        <item>茄科  碧冬茄属</item>
+
+        <item>紫葳科 菜豆树属</item>
+        <item>柏科   侧柏属</item>
+        <item>山茶科 山茶属</item>
+        <item>桃金娘科 蒲桃属</item>
+        <item>楝科 楝属</item>
+        <item>锦葵科  悬铃花属</item>
+        <item>杨柳科  柳属</item>
+        <item>蔷薇科 苹果属</item>
+        <item>榆科  榆属</item>
+        <item>天南星科  喜林芋属</item>
+        <item>禾本科 慈竹属</item>
+        <item>豆科 刺槐属</item>
+        <item>五加科 刺楸属</item>
+        <item>豆科 刺桐属</item>
+
+        <item>马齿苋科  马齿苋属</item>
+        <item>美人蕉科  美人蕉属</item>
+        <item>天南星科 大薸属</item>
+        <item>黄杨科  黄杨属</item>
+        <item>石蒜科  仙茅属</item>
+        <item>蔷薇科 樱属</item>
+        <item>棕榈科 鱼尾葵属</item>
+        <item>黄杨科  黄杨属</item>
+        <item>杜鹃花科 杜鹃属</item>
+        <item>杜英科  杜英属</item>
+
+        <item>五加科  鹅掌柴属</item>
+        <item>千屈菜科  萼距花属</item>
+        <item>木兰科 木兰属</item>
+
+        <item>悬铃木科  悬铃木属</item>
+        <item>木兰科 木兰属</item>
+        <item>莎草科  莎草属</item>
+        <item>金缕梅科 枫香树属</item>
+        <item>胡桃科  枫杨属</item>
+        <item>龙舌兰科  丝兰属</item>
+        <item>禾本科 簕竹属</item>
+        <item>锦葵科  木槿属</item>
+        <item>无患子科 栾树属</item>
+
+        <item>芸香科  柑橘属</item>
+        <item>芸香科  枳属</item>
+        <item>桑科 构属</item>
+        <item>蔷薇科 石楠属</item>
+        <item>天南星科 龟背竹属</item>
+        <item>禾本科  刚竹属</item>
+
+        <item>海金沙科 海金沙属</item>
+        <item>海桐花科 海桐花属</item>
+        <item>天南星科   海芋属</item>
+        <item>木兰科 含笑属</item>
+        <item>旱金莲科 旱金莲属</item>
+        <item>蓼科  何首乌属</item>
+        <item>木兰科 木兰属</item>
+        <item>樟科 山胡椒属</item>
+        <item>大戟科  海漆属</item>
+        <item>槭树科 槭属</item>
+        <item>金缕梅科 檵木属</item>
+        <item>豆科  羊蹄甲属</item>
+        <item>酢浆草科 酢浆草属</item>
+        <item>桃金娘科 红千层属</item>
+        <item>蔷薇科 石楠属</item>
+        <item>鸢尾科  鸢尾属</item>
+        <item>虎耳草科 虎耳草属</item>
+        <item>芸香科 花椒属</item>
+        <item>荨麻科  冷水花属</item>
+        <item>山茱萸科  桃叶珊瑚属</item>
+        <item>姜科 山姜属</item>
+        <item>豆科 刺槐属</item>
+        <item>薯蓣科 薯蓣属</item>
+        <item>桑科 榕属</item>
+        <item>菊科 猫儿菊属</item>
+        <item>马鞭草科 假连翘属</item>
+        <item>漆树科 黄连木属</item>
+        <item>胡桃科 黄杞属</item>
+        <item>马钱科  灰莉属</item>
+
+        <item>桑科  桑属</item>
+        <item>槭树科 槭属</item>
+        <item>棕榈科 刺葵属</item>
+        <item>棕榈科 假槟榔属</item>
+        <item>姜科 姜属</item>
+        <item>忍冬木科 接骨木属</item>
+        <item>卫矛科 卫矛属</item>
+        <item>忍冬科 荚蒾属</item>
+        <item>百合科  吊兰属</item>
+        <item>紫茉莉科 叶子花属</item>
+        <item>石蒜科 葱莲属</item>
+        <item>棕榈科 酒瓶椰属</item>
+
+        <item>楝科 楝属</item>
+
+        <item>蜡梅科 蜡梅属</item>
+        <item>桃金娘科  桉属</item>
+        <item>紫葳科 蓝花楹属</item>
+        <item>榆科 榆属</item>
+        <item>木兰科 含笑属</item>
+        <item>蔷薇科  李属</item>
+        <item>睡莲科  莲属</item>
+        <item>杉科  柳杉属</item>
+        <item>茜草科 白马骨属</item>
+        <item>豆科  刺桐属</item>
+        <item>豆科  槐属</item>
+        <item>罗汉松科 罗汉松属</item>
+        <item>落葵科  落葵薯属</item>
+        <item>桑科 葎草属</item>
+
+        <item>蔷薇科 绣线菊属</item>
+        <item>天南星科  马蹄莲属</item>
+        <item>马鞭草科  马缨丹属</item>
+        <item>金星蕨科 毛蕨属</item>
+        <item>大戟科  野桐属</item>
+        <item>蔷薇科 木瓜属</item>
+        <item>樟科  木姜子属</item>
+        <item>蔷薇科  杏属</item>
+        <item>锦葵科 木槿属</item>
+        <item>锦葵科  木槿属</item>
+        <item>木犀科 木犀属</item>
+
+        <item>红豆杉科 红豆杉属</item>
+        <item>小檗科 南天竹属</item>
+        <item>木犀科 女贞属</item>
+
+        <item>葡萄科  地锦属</item>
+        <item>蔷薇科 枇杷属</item>
+        <item>柏科 圆柏属</item>
+        <item>葡萄科 葡萄属</item>
+        <item>菊科  蒲儿根属</item>
+        <item>棕榈科 蒲葵属</item>
+        <item>榆科 朴属</item>
+
+        <item>桃金娘科 白千层属</item>
+        <item>千屈菜科  千屈菜属</item>
+        <item>蔷薇科 蔷薇属</item>
+        <item>大戟科 秋枫属</item>
+        <item>秋海棠科  秋海棠属</item>
+        <item>菊科  秋英属</item>
+        <item>黄杨科  黄杨属</item>
+
+        <item>忍冬科 荚蒾属</item>
+        <item>蔷薇科  樱属</item>
+        <item>樟科  木姜子属</item>
+        <item>桑科 榕属</item>
+        <item>樟科  润楠属</item>
+
+        <item>槭树科 槭属</item>
+        <item>桑科 桑属</item>
+        <item>山茶科 山茶属</item>
+        <item>蔷薇科 樱属</item>
+        <item>木兰科 木兰属</item>
+        <item>山茶科  山茶属</item>
+        <item>肾蕨科  肾蕨属</item>
+        <item>小檗科  十大功劳属</item>
+        <item>石榴科 石榴属</item>
+        <item>使君子科 使君子属</item>
+        <item>豆科 决明属</item>
+        <item>石蒜科  水鬼蕉属</item>
+        <item>杉科  水杉属</item>
+        <item>竹芋科 再力花属</item>
+        <item>睡莲科  睡莲属</item>
+        <item>桃金娘科 蒲桃属</item>
+        <item>苏铁科  苏铁属</item>
+        <item>木犀科 木犀属</item>
+        <item>苏铁科 苏铁属</item>
+        <item>雨久花科 梭鱼草属</item>
+
+        <item>柏科  圆柏属</item>
+        <item>蔷薇科 桃属</item>
+        <item>百合科  天门冬属</item>
+        <item>樟科  樟属</item>
+        <item>牻牛儿苗科 天竺葵属</item>
+        <item>铁线蕨科  铁线蕨属</item>
+
+        <item>木兰科 木兰属</item>
+        <item>卫矛科 卫矛属</item>
+        <item>金缕梅科 蚊母树属</item>
+        <item>大戟科  乌桕属</item>
+        <item>葡萄科 乌蔹莓属</item>
+        <item>柿科  柿属</item>
+        <item>梧桐科 梧桐属</item>
+        <item>凤尾蕨科  凤尾蕨属</item>
+
+        <item>卫矛科 卫矛属</item>
+        <item>蓝果树科 喜树属</item>
+        <item>爵床科 老鼠艻属 </item>
+        <item>樟科 樟属</item>
+        <item>菊科  向日葵属</item>
+        <item>木犀科 女贞属</item>
+        <item>禾本科    簕竹属</item>
+        <item>木犀科 女贞属</item>
+        <item>禾本科 簕竹属</item>
+        <item>蔷薇科 杏属</item>
+        <item>蔷薇科 绣线菊属</item>
+        <item>旋花科  打碗花属</item>
+        <item>松科 雪松属</item>
+
+        <item>海桐花科 海桐花属</item>
+        <item>百合科 沿阶草属</item>
+        <item>茄科  夜香树属</item>
+        <item>桃金娘科 桉属</item>
+        <item>南洋杉科 南洋杉属</item>
+        <item>山龙眼科  银桦属</item>
+        <item>樟科 樟属</item>
+        <item>银杏科 银杏属</item>
+        <item>桑科  榕属</item>
+        <item>蔷薇 科樱属</item>
+        <item>木犀科   素馨属</item>
+        <item>芸香科  柑橘属</item>
+        <item>棕榈科 鱼尾葵属</item>
+        <item>山柑科  鱼木属</item>
+        <item>百合科 玉簪属</item>
+
+        <item>桑科  柘属</item>
+        <item>茜草科 栀子属</item>
+        <item>百合科  蜘蛛抱蛋属</item>
+        <item>木兰科 木兰属</item>
+        <item>豆科 紫荆属</item>
+        <item>紫茉莉科  紫茉莉属</item>
+        <item>豆科 紫藤属</item>
+        <item>千屈菜科 紫薇属</item>
+        <item>鸭跖草科  紫竹梅属</item>
+        <item>蔷薇科 李属</item>
+        <item>木兰科  木兰属</item>
+        <item>禾本科 刚竹属</item>
+        <item>棕榈科 棕榈属</item>
+</string-array>
+</resources>
