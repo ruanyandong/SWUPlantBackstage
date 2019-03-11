@@ -50,6 +50,13 @@ public class LoginServlet extends HttpServlet {
 			userBean.setPassword(password);
 			baseBean.setData(userBean);
 			baseBean.setMsg("该用户不存在");
+		}else if (dbUtils.checkUserExist(username) && !dbUtils.checkUserExist(username, password)) {
+			baseBean.setCode(1);
+			userBean.setId(-1);
+			userBean.setUsername(username);
+			userBean.setPassword(password);
+			baseBean.setData(userBean);
+			baseBean.setMsg("密码错误");
 		}else if (dbUtils.checkUserExist(username, password)) {
 			baseBean.setCode(0);
 			baseBean.setMsg("登陆成功");

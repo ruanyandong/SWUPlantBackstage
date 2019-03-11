@@ -2,8 +2,6 @@ package servlet;
 
 import java.io.IOException;
 import java.io.Writer;
-import java.net.URL;
-import java.net.URLDecoder;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import javax.servlet.ServletException;
@@ -32,10 +30,6 @@ public class RegisterServlet extends HttpServlet {
 		request.setCharacterEncoding("UTF-8");
 		response.setCharacterEncoding("UTF-8");
 		response.setContentType("text/html;charset=utf-8");
-		//response.getWriter().append("Served at: ").append(request.getContextPath());
-		System.out.println("request==============>"
-				+request.getRequestURL()+"参数====》"+request.getRemoteAddr()+" "
-				+request.getRemoteHost()+" "+request.getRemotePort()+" "+request.getRemoteUser());
 		       
 		String username = request.getParameter("username"); // 获取客户端传过来的参数
 		String password = request.getParameter("password");
@@ -67,8 +61,6 @@ public class RegisterServlet extends HttpServlet {
 				System.out.println("rs不等于null");
 				try {
 					while (rs.next()) {
-						System.out.println("rs.next");
-					    System.out.println(rs.getInt("id")+" "+rs.getString("username")+" "+rs.getString("password"));
 						if (rs.getString("username").equals(username) 
 								&& rs.getString("password").equals(password)) {
 							id = rs.getInt("id");

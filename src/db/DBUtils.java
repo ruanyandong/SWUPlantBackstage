@@ -1,11 +1,14 @@
 package db;
 
-import java.awt.TexturePaint;
 import java.sql.Connection;
-import java.sql.DriverManager;
+import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
 
 /**
  * @author 阮严冬
@@ -62,7 +65,8 @@ public class DBUtils {
 			if (resultSet!=null) {
 				while(resultSet.next()) {
 					if (resultSet.getString("username").equals(username)) {
-						System.out.println("用户已经存在");
+						
+						System.out.println(resultSet.getString("username")+"用户已经存在");
 						isExist = true;
 					}
 				}
@@ -106,8 +110,12 @@ public class DBUtils {
 	 */
 	public boolean insertNewUserData(String username,String password) {
 		boolean isSuccess = true;
-		String sql = "insert into user(username,password) values(" + "'" +username+ "', " + "'" + password
-				+ "' )";
+		SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+		Date date = new Date();
+		String registerTime = format.format(date);
+		
+		String sql = "insert into user(username,password,register_time) values(" + "'" +username+ "', " + "'" + password
+				+"', " + "'" + registerTime+ "' )";
 		try {
 			statement = connection.createStatement();
 			/**
@@ -121,6 +129,158 @@ public class DBUtils {
 			isSuccess = true;
 		}
 		return isSuccess;
+	}
+	
+	/**
+	 * 修改用户密码
+	 * @param username
+	 * @param newPassword
+	 * @return
+	 */
+	public boolean updateUserPassword(String username,String password) {
+		String sql = "update user set password = ? where username = ?";
+		try {
+			PreparedStatement statement = connection.prepareStatement(sql);
+			statement.setString(1, password);
+			statement.setString(2, username);
+			int count = statement.executeUpdate();
+			if (count>0) {
+				return true;
+			}
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return false;
+	}
+	
+	/**
+	 * 插入用户收藏的植物数据
+	 * @param plantChineseName
+	 * @param username
+	 * @return
+	 */
+	public boolean insertCollectionData(String plantChineseName,String username) {
+		SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+		Date date = new Date();
+		String collectionTime = format.format(date);
+		boolean isSuccess = false;
+		String sql = "insert into collection(plant_chinese_name,username,collection_time) values(" + "'" +plantChineseName+ "', " + "'" + username
+				+"', " + "'" +collectionTime+ "' )";
+		try {
+			statement = connection.createStatement();
+			isSuccess = statement.execute(sql);
+		} catch (SQLException e) {
+			e.printStackTrace();
+			isSuccess = true;
+		}
+		return isSuccess;
+	}
+	
+	/**
+	 * 批量插入数据
+	 * @param plants
+	 * @param username
+	 * @return
+	 */
+	public boolean batchInsertCollection(String[] plants,String username) {
+		SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+		Date date = new Date();
+		String collectionTime = format.format(date);
+		
+		boolean isSuccess = false;
+		String sql = "insert into collection(plant_chinese_name,username,collection_time) values(?,?,?)";
+		try {
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			for(int i = 0;i<plants.length;i++) {
+				preparedStatement.setString(1, plants[i]);
+				preparedStatement.setString(2, username);
+				preparedStatement.setString(3, collectionTime);
+				preparedStatement.addBatch();
+			}
+			int[] rows = preparedStatement.executeBatch();
+			preparedStatement.close();
+			if (rows.length == plants.length) {
+				isSuccess = true;
+			}
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return isSuccess;
+	}
+	
+	/**
+	 * 查询用户收藏
+	 * @param username
+	 * @return
+	 */
+	public List<String> queryCollection(String username){
+		String sql = "select plant_chinese_name from collection where username = ?";
+		List<String> plants = new ArrayList<>();
+		try {
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setString(1, username);
+			ResultSet resultSet = preparedStatement.executeQuery();
+			if (resultSet != null) {
+				while(resultSet.next()) {
+					String plant = resultSet.getString("plant_chinese_name");
+					if (plant != null) {
+						plants.add(plant);
+					}
+				}
+			}
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return plants;
+	}
+	
+	/**
+	 * 删除用户收藏数据
+	 * @param plantChineseName
+	 * @param username
+	 * @return
+	 */
+	public boolean deleteCollectionData(String plantChineseName,String username) {
+		String sql = "delete from collection where plant_chinese_name = ? and username = ?";
+		try {
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			preparedStatement.setString(1, plantChineseName);
+			preparedStatement.setString(2, username);
+			int count = preparedStatement.executeUpdate();
+			preparedStatement.close();
+			if (count>0) {
+				return true;
+			}
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return false;
+	}
+	
+	/**
+	 * 批量删除收藏数据
+	 * @param plants
+	 * @param username
+	 * @return
+	 */
+	public boolean batchDeleteCollection(String[] plants,String username) {
+		String sql = "delete from collection where plant_chinese_name = ? and username = ?";
+		try {
+			PreparedStatement preparedStatement = connection.prepareStatement(sql);
+			for(int i = 0;i<plants.length;i++) {
+				preparedStatement.setString(1, plants[i]);
+				preparedStatement.setString(2, username);
+				preparedStatement.addBatch();
+			}
+			int[] rows = preparedStatement.executeBatch();
+			preparedStatement.close();
+			if (rows.length == plants.length) {
+				return true;
+			}
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return false;
 	}
 	
 	public void close() {
@@ -141,5 +301,10 @@ public class DBUtils {
 			e.printStackTrace();
 		}
 	}
+
+	
+	
+
+
 	
 }
